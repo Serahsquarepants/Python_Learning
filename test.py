@@ -18,5 +18,7 @@ lista = list(ejemplo) #Se utiliza el constructor cuando queremos separar todo, s
 lista2 = ["Hola", "Mundo"]
 print(lista.count('a')) #De esta forma haces un contador de las veces que se repite X en un string.
 #print(lista2)
+
+#Next: W3Schol Change List items
         
 
