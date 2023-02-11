@@ -1,4 +1,4 @@
-# Task: Given an integral number, determine if it's a square number.
+# Task: Given an integral number, determine if it's a square number. (7 kyu)
 import math
 
 def is_square(n):

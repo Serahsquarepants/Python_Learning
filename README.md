@@ -1,3 +1,3 @@
 # Python_Learning
 
-Repositorio de práctica y aprendizaje autónomo de Python desde 0.
+Python learning project using CodeWars exercices.

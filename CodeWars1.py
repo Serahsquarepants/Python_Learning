@@ -1,4 +1,4 @@
-#Return masked string
+#Return masked string. (8 kyu)
 
 def maskify(cc):
     replacement = ""
