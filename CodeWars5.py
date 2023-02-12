@@ -6,3 +6,7 @@ def DNA_strand(dna):
     for char in dna:
         complement += dict[char]
     return complement    
+
+# It can be resolved using dna.translate(string.maketrans("ATCG","TAGC")).
+# .maketrans() creates an equivalence table and .translate uses that table to replace it.
+# I saw this solution after completing the exercice and It's really interesting for future purpouses.
